@@ -1,0 +1,57 @@
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Mafia CORE.exe
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Mafia CORE.deps.json
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Mafia CORE.runtimeconfig.json
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Mafia CORE.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Mafia CORE.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Mafia CORE.pdb
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.Addons.Hosting.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.InteractivityAddon.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\Victoria.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.csproj.CopyComplete
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.pdb
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\obj\Debug\netcoreapp3.1\Mafia CORE.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
+C:\Users\Daniel\source\repos\Mafia CORE\Mafia CORE\bin\Debug\netcoreapp3.1\YamlDotNet.dll

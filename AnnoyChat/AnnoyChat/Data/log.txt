@@ -1,0 +1,7 @@
+[10:36:50] WARNING: Please provide your Discord Bot token in _config.yml
+[16:01:11] INFO: Connected as Annoy Chat#3547 [16:1]
+[16:01:21] INFO: 0, 0
+[16:01:31] INFO: 0, 0
+[16:50:31] WARNING: Please provide your Discord Bot token in _config.yml
+[16:51:14] INFO: GOOD ONE
+[16:51:14] INFO: Connected as Annoy Chat#3547 [16:51]

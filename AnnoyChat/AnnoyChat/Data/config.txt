@@ -1,0 +1,18 @@
+﻿guildID: 574043278069203004
+channelID: 918590295849971763
+#Whether to privately message an admin if a user tries to send a message but do$
+alert_admin_if_user_has_no_displayname: true
+#The ID of the admin, used if alert_admin_if_user_has_no_displayname is set to $
+adminID: 274697039500148737
+#The name of the account with the mod installed
+modUserIGN: AnnoyBot
+#The rank of the account with the mod installed. Leave 'none' for none. Any oth$
+modUserRank: [VIP]
+#The bot maintainer, can use /load and /launch freely. Can leave as 'null'.
+botMaintainerID: 272753984840663040
+#The emoji that the bot reacts to a message that has failed to send with. Can l$
+messageFailedToSendEmoji: 🚫
+#The symbol that gets sent in the message. For example: Gameoholic: test OR Gam$
+messageSymbol:  >
+#The role that has access to the channel. If everyone can access it, leave as '$
+canViewChannelRoleID: 574043487108857867
